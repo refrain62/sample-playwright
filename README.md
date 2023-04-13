@@ -45,6 +45,10 @@ We suggest that you begin by typing:
     npx playwright test
 ```
 
+## テストをplaywrightで実行
+npm run test-playwright 
+
+
 
 # Getting Started with Create React App
 
