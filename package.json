@@ -1,0 +1,11 @@
+{
+  "name": "sample-playwright",
+  "version": "1.0.0",
+  "description": "https://zenn.dev/lclco/articles/3f3801e685cbcc の写経",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
