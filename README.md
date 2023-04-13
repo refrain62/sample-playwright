@@ -3,7 +3,14 @@
 ## プロジェクト作成
 npx create-react-app sample-playwright
 
+## プロジェクトの起動確認
+npm start
 
+## storybookの追加
+npx storybook init
+
+## storybookの起動
+npm run storybook
 
 # Getting Started with Create React App
 
