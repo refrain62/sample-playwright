@@ -6,6 +6,12 @@ npx create-react-app sample-playwright
 ## プロジェクトの起動確認
 npm start
 
+# TS関連の設定追加
+npm install --save react react-dom
+npm install --save-dev @types/react @types/react-dom
+npm install --save @storybook/react
+npm install --save-dev typescript ts-loader
+
 ## storybookの追加
 npx storybook init
 
